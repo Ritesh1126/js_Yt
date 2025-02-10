@@ -18,3 +18,23 @@ account_City = "chandrapur"
 console.log(account_Id);
 
 console.table([account_Id, account_Email, account_password, account_City, account_state])
+
+//Primitive Datatypes ==> given in follows
+//number ==> 2 to power 53
+//bigint
+//string ==> ""
+//boolean ==> true/False
+//null ==> standalone value
+//undefined ==> U define varible but it is empty or u can say null 
+//symbol ==> uniqueness find krne k liye symbol use krte hai ...
+
+//object
+
+ 
+console.log(typeof undefined); //undefined
+console.log(typeof null); //object
+
+
+
+
+
