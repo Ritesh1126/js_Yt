@@ -4,4 +4,6 @@ for (let i =0 ; i<=100 ; i++) // ye for loop hai , isme I ko define kiya ki i ye
     sum += i;
 }
 console.log("Sum of 1 to 100 is = ", sum);
+
+
    
